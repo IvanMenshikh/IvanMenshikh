@@ -5,5 +5,5 @@
 <hr />
 
 <p align="right">
-    <img align="right" width="450" src="https://github.com/IvanMenshikh/Welcome/blob/main/welcome.gif">
+    <img align="right" width="450" src="https://github.com/IvanMenshikh/IvanMenshikh/blob/main/welcome.gif">
 </p>
